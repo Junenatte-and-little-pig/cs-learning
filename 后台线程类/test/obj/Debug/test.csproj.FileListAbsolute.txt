@@ -1,0 +1,10 @@
+E:\Github\cs-learning\test\test\bin\Debug\test.exe.config
+E:\Github\cs-learning\test\test\bin\Debug\test.exe
+E:\Github\cs-learning\test\test\bin\Debug\test.pdb
+E:\Github\cs-learning\test\test\obj\Debug\test.csprojAssemblyReference.cache
+E:\Github\cs-learning\test\test\obj\Debug\test.Form1.resources
+E:\Github\cs-learning\test\test\obj\Debug\test.Properties.Resources.resources
+E:\Github\cs-learning\test\test\obj\Debug\test.csproj.GenerateResource.cache
+E:\Github\cs-learning\test\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+E:\Github\cs-learning\test\test\obj\Debug\test.exe
+E:\Github\cs-learning\test\test\obj\Debug\test.pdb
